@@ -1,6 +1,16 @@
-# 하이미디어 토이 프로젝트 8월 15일 ~ 8월 22일
+# React.js로 구현한 PETMILY 프로젝트
 
-react 터미널 켜서 npm init -> npm install -> mock으로 한 번 더 들어가서 npx json-server ./db.json --port 3000 해주고,
-npm run start 하면 켜집니다~ 
 
-잘 모르겠으면 경주씨에게 ㄱㄱ
+<h2>프로젝트 개요</h2><br>
+✔️프로젝트 소개<br>
+사용자가 언제 어디서든 이용할 수 있는 유기견 입양 서비스 입니다.<br>
+여러 지역의 유기견 정보를 확인 및 입양 신청서까지 비대면으로 작성 가능합니다.<br><br>
+
+✔️프로젝트 목적<br>
+코로나의 확산으로 인해 많은 사람들이 여행에 가지 못해 강아지를 입양했지만 반려견을 키우는 것에 많은 어려움을 느끼고 반려견을 유기하는 사례가 많아지고 있다.<br>
+작년부터 보호소를 찾는 발길도 끊겼기에, 먼 지역의 사람들도 보호소에 여러 번 오지 않고 유기견의 정보와 입양 신청까지 바로 할 수 있는 편리한 서비스를 만드는 것이 목적이다.<br><br>
+
+<h2>사용 기술</h2><br>
+✔️JavaScript, React, Redux, Axios<br>
+✔️Framework  :  VsCode<br>
+✔️Collabotation Tools  :  Github, Notion, Slack<br>
