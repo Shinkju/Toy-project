@@ -10,7 +10,17 @@
 코로나의 확산으로 인해 많은 사람들이 여행에 가지 못해 강아지를 입양했지만 반려견을 키우는 것에 많은 어려움을 느끼고 반려견을 유기하는 사례가 많아지고 있다.<br>
 작년부터 보호소를 찾는 발길도 끊겼기에, 먼 지역의 사람들도 보호소에 여러 번 오지 않고 유기견의 정보와 입양 신청까지 바로 할 수 있는 편리한 서비스를 만드는 것이 목적이다.<br><br>
 
+✔️프로젝트 총 기간<br>
+2022.08.15 ~ 2022.08.22<br><br>
+
+
 <h2>사용 기술</h2><br>
 ✔️JavaScript, React, Redux, Axios<br>
 ✔️Framework  :  VsCode<br>
-✔️Collabotation Tools  :  Github, Notion, Slack<br>
+✔️Collabotation Tools  :  Github, Notion, Slack<br><br>
+
+<h2>구현 기능 담당</h2><br>
+✔️성현기  :  로그인, 회원가입<br>
+✔️박천웅  :  마이페이지<br>
+✔️추승희  :  유기견 상세 페이지<br>
+✔️신경주  :  메인 대시보드, 입양 신청서 페이지
